@@ -1,2 +1,2 @@
 # js-basic-programing
-Basic programing
+Basic javaScript programing
